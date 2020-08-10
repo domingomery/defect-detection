@@ -1,6 +1,10 @@
 # defect-detection
 
 
+<img src="https://github.com/domingomery/defect-detection/blob/master/blockdiagram.jpg" width="600">
+
+
+
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BbFfm8u28USgn2fhR2ybkd4WIVxqPW9I?usp=sharing) RetinaNet
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-8w8WPOc9vTqhHbor9NnqS6Lpujdbe9O?usp=sharing) YOLOv3
