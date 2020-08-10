@@ -1,6 +1,11 @@
 # defect-detection
 
 
+Defect Detection in Aluminum Castings using Object Detection Methods
+
+Example using series C0001 of [GDXray+](https://domingomery.ing.puc.cl/material/gdxray/). Training and validation using simulated ellipsoidal defects only. Testing on real defects only. Training, Validation and Testing images belong to the same type of wheel. The idea is to demonstrate that we can inspect a type of wheel if we train using the images of this wheel with no defects + simulated defects and test the model on X-ray images of the same type of wheel with real defects.
+
+
 <img src="https://github.com/domingomery/defect-detection/blob/master/blockdiagram.jpg" width="600">
 
 
