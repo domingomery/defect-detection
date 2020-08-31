@@ -39,7 +39,7 @@ See [jupyter notebboks](https://github.com/domingomery/defect-detection/tree/mas
 Results on seven testing images of C0001 (one per column). The first row is the original testing image. The following eight rows are the results using YOLOv3-Tiny, YOLOv3-SPP, YOLOv5s, YOLOv5l, YOLOv5m, YOLOv5x, RetinaNet and EfficientDet respectively (ground truth in red, and detection in green).}
 
 * Achieved results 
-<img src="https://github.com/domingomery/defect-detection/blob/master/results.jpg" width="600">
+<img src="https://github.com/domingomery/defect-detection/blob/master/results.jpg" width="1000">
 
 
 
