@@ -9,7 +9,7 @@
 # 21st International Conference of the Chilean Computer Science Society 
 # (pp. 193-202). IEEE. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=972648
 #
-# The ellipsoidals defects are generated randomly. This code does not check if
+# The ellipsoidal defects are generated randomly. This code does not check if
 # the projected ellipsoid belongs to the casting or not. It only checks if the
 # bounding box is inside the image.
 #
