@@ -9,23 +9,19 @@ In the automotive industry, light-alloy aluminum castings are considered relevan
 * Block-diagram of the proposed method 
 <img src="https://github.com/domingomery/defect-detection/blob/master/blockdiagram.png" width="600">
 
+
+
+## Simulation of ellipsoidal defects
+
+The method generates a 3D ellipoidal (in 3D space) and projects its onto projection plane using a perspective transformation. The ellipsoidal defects are generated randomly. See [implementation](https://github.com/domingomery/defect-detection/tree/master/ellipsoidal-simulation).
+
 * Use of simulated ellipsoidal defects for training purposes 
 <img src="https://github.com/domingomery/defect-detection/blob/master/ellipsoidal-simulation/simulation.png" width="600">
-
 
 
 ## Implementation
 
 In this example, we use series C0001 of [GDXray+](https://domingomery.ing.puc.cl/material/gdxray/). Training and validation using simulated ellipsoidal defects only. Testing on real defects only. Training, Validation and Testing images belong to the same type of wheel. The idea is to demonstrate that we can inspect a type of wheel if we train using the images of this wheel with no defects + simulated defects and test the model on X-ray images of the same type of wheel with real defects.
-
-
-
-
-
-
-
-
-
 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BbFfm8u28USgn2fhR2ybkd4WIVxqPW9I?usp=sharing) RetinaNet
@@ -35,5 +31,15 @@ In this example, we use series C0001 of [GDXray+](https://domingomery.ing.puc.cl
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QByPHaz3FhirHeWqV9JF0tuzHLj5MqCv?usp=sharing) YOLOv5
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ltuNKXI7mdk1cp3LTxDjkjv3l06h9P7v?usp=sharing) EfficientDet
+
+See [jupyter notebboks](https://github.com/domingomery/defect-detection/tree/master/object-detectors)
+
+## Results
+
+Results on seven testing images of C0001 (one per column). The first row is the original testing image. The following eight rows are the results using YOLOv3-Tiny, YOLOv3-SPP, YOLOv5s, YOLOv5l, YOLOv5m, YOLOv5x, RetinaNet and EfficientDet respectively (ground truth in red, and detection in green).}
+
+* Achieved results 
+<img src="https://github.com/domingomery/defect-detection/blob/master/results.jpg" width="1000">
+
 
 
