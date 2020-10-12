@@ -32,21 +32,17 @@ All examples of the Book have been implemented in Jupyter Notebooks tha run on G
 
 ## Chapter 01: X-ray Testing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1meevAFZkZ_0SUBPYqo_nl7grBcqfeVMP?usp=sharing)
 
-
 * Example 1.1: Displaying X-ray images
 * Example 1.2: Dual Energy
 * Example 1.3: Help of PyXvis functions
 
 
-## Chapter 02: Images for X-ray Testing 
+## Chapter 02: Images for X-ray Testing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDc5wbH11I5PV18l5ZSt92yugz0eHi4W?usp=sharing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MDc5wbH11I5PV18l5ZSt92yugz0eHi4W?usp=sharing)
 * Example 2.1: Displaying an X-ray image of GDXray
 
 
-## Chapter 03: Geometry in X-ray Testing
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14CgSCGcpm4Wc4SbVB70iBx6Cw6rXoZAq?usp=sharing)
+## Chapter 03: Geometry in X-ray Testing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14CgSCGcpm4Wc4SbVB70iBx6Cw6rXoZAq?usp=sharing)
 
 * Example 3.1: Euclidean 2D transformation
 * Example 3.2: Euclidean 3D transformation
@@ -59,9 +55,7 @@ All examples of the Book have been implemented in Jupyter Notebooks tha run on G
 * Example 3.9: 3D reconstruction
 
 
-## Chapter 04: X-ray Image Processing
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1edbph3qfb2PfKOWPGUWUsC0DeX8muO9U?usp=sharing)
+## Chapter 04: X-ray Image Processing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1edbph3qfb2PfKOWPGUWUsC0DeX8muO9U?usp=sharing)
 
 * Example 4.1: Aritmetic average of images
 * Example 4.2: Contrast enhancement
@@ -77,9 +71,7 @@ All examples of the Book have been implemented in Jupyter Notebooks tha run on G
 * Example 4.12: Image restoration
 
 
-## Chapter 05: X-ray Image Representation
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dwGTGHA1CR1om3MirGX5VCVhQgVc-g3-?usp=sharing)
+## Chapter 05: X-ray Image Representation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dwGTGHA1CR1om3MirGX5VCVhQgVc-g3-?usp=sharing)
 
 * Example 5.1: Geometric features
 * Example 5.2: Elliptical features
@@ -93,9 +85,7 @@ All examples of the Book have been implemented in Jupyter Notebooks tha run on G
 * Example 5.10: Example using geometric features
 
 
-## Chapter 06: Classification in X-ray Testing
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zGx0HpAt7EtOiORXkTluOPDW4w5alNSj?usp=sharing)
+## Chapter 06: Classification in X-ray Testing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zGx0HpAt7EtOiORXkTluOPDW4w5alNSj?usp=sharing)
 
 * Example 6.1: Basic classification example
 * Example 6.2: Minimal distance (dmin)
@@ -115,7 +105,7 @@ All examples of the Book have been implemented in Jupyter Notebooks tha run on G
 
 ## Chapter 07: Deep Learing in X-ray Testing
 
-* Example 7.1: Basic neural networks (from skratch)
+* Example 7.1: Basic neural networks (from skratch) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ohs0hBDu5zRtNagbqBCJV6fmxq63CxS6?usp=sharing)
 * Example 7.2: Neural network using sklearn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ohs0hBDu5zRtNagbqBCJV6fmxq63CxS6?usp=sharing)
 
 * Example 7.3: Convolutional Neural Network [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nI3AABdBJKdT680L-ouUwX3ywpajv8bC?usp=sharing)
@@ -127,9 +117,7 @@ All examples of the Book have been implemented in Jupyter Notebooks tha run on G
 * Example 7.6: Generative Adversarial Networks (GANs) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bv9wptpLuxjXxcx6UQmPGtLdZvx949iU?usp=sharing)
 
 
-## Chapter 08: Simulation in X-ray Testing
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s7bKncSrQhIq_kW0qO3JvUOyyK8rfp3Q?usp=sharing)
+## Chapter 08: Simulation in X-ray Testing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s7bKncSrQhIq_kW0qO3JvUOyyK8rfp3Q?usp=sharing)
 
 * Example 8.1: Basic simulation using voxels
 * Example 8.2: Simulation of defects using mask
