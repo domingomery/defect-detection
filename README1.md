@@ -30,9 +30,9 @@ Then, to upgrade:
 All examples of the Book have been implemented in Jupyter Notebooks tha run on Google Colab.
 
 
-## Chapter 01: X-ray Testing 
+## Chapter 01: X-ray Testing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1meevAFZkZ_0SUBPYqo_nl7grBcqfeVMP?usp=sharing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1meevAFZkZ_0SUBPYqo_nl7grBcqfeVMP?usp=sharing)
+
 * Example 1.1: Displaying X-ray images
 * Example 1.2: Dual Energy
 * Example 1.3: Help of PyXvis functions
