@@ -1,9 +1,6 @@
 # defect-detection
 
 
-Go to [Google Colab](README1.md)
-
-
 ## Defect Detection in Aluminum Castings using Object Detection Methods
 
 
