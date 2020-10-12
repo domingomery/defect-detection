@@ -144,38 +144,6 @@ All examples of the Book have been implemented in Jupyter Notebooks tha run on G
 * Example 9.2: Defect detection in welds [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mFiaoEsuhAEQoev_jgPEv35G1lIt55F8?usp=sharing)
 
 
-
-
-
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # GDXray database
 In our examples, we use [GDXray](https://domingomery.ing.puc.cl/material/gdxray/). The X-ray images included in GDXray+ can be used free of charge, for research and educational purposes only. Redistribution and commercial use is prohibited. 
 
